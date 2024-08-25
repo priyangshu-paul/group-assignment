@@ -18,7 +18,7 @@ v. Choose whether the repository will be public or private.
 vi. Optionally, initialize the repository with a README.md file and a .gitignore file (you can choose the LaTeX template for the .gitignore).
 <br>
 vi. Click Create repository.
-<br>
+
 
 
 Step 2: Set Up Your Local Environment
@@ -32,7 +32,7 @@ i. If you haven't already, install Git on your local machine. You can download i
 3. Install LaTeX:
  <br>
 ii. Ensure you have a LaTeX distribution installed, such as TeX Live or MiKTeX.
-<br>
+
 
 
 Step 3: Clone the Repository Locally
@@ -45,7 +45,7 @@ i. Open a terminal (Command Prompt, Git Bash, etc.).
 ii. Clone the repository to your local machine: git clone https://github.com/your-username/my-latex-project.git
 <br>
 iii. Navigate into your project directory: cd my-latex-project
-<br>
+
 
 
 Step 5: Commit and Push Changes
@@ -56,15 +56,15 @@ Step 5: Commit and Push Changes
 i. After creating or modifying your LaTeX files, add them to your Git repository: git add .
 <br>
 
-3. Commit Your Changes:
+2. Commit Your Changes:
  <br>
 i. Commit the changes with a message: git commit -m "Initial commit with LaTeX files"
 <br>
 
-5. Push to GitHub:
+3. Push to GitHub:
  <br>
 i. Push the changes to your GitHub repository: git push origin main
-<br>
+
 
 
 Step 6: Collaborate and Update
