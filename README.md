@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # group-assignment
 creating latex repo on GitHub
 
@@ -49,3 +50,6 @@ i. Share the repository link with collaborators. They can clone the repo, make c
 
 2. Pull Updates:
 i. Regularly pull updates to keep your local repository in sync: git pull origin main
+=======
+# creating latex repo on GitHub
+>>>>>>> 431c8f2f69a640499f1bc2a1d813e36b252b0eb5
