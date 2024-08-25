@@ -1,2 +1,1 @@
-# group-assignment
-creating latex repo on GitHub
+# creating latex repo on GitHub
